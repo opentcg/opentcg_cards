@@ -7,8 +7,8 @@ require "opentcg_cards/version"
 Gem::Specification.new do |s|
   s.name        = "opentcg_cards"
   s.version     = OpentcgCards::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["opentcg"]
+  s.email       = ["opentradingcardgame@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of OpentcgCards."
   s.description = "TODO: Description of OpentcgCards."
